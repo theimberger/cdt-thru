@@ -14,6 +14,7 @@ import SectionContent from './components/SectionContent.vue'
 main {
   position: relative;
   max-width: 1280px;
+  margin: 0 auto;
   height: 100%;
   width: 100%;
   padding: 24px;
